@@ -6,13 +6,13 @@ description:
     <a href="https://www.linkedin.com/in/leon-richard-dsouza-ab073b15a/" target="_blank">LinkedIn</a> |
     <a href="https://github.com/dsouzaleon" target="_blank">GitHub</a>
 
-    <br>   
+    <br/><br/>
       With over 3 years of experience as a Data Analyst at United Airlines, I have worked on multiple data sources like <b>SQL</b>, <b>Spark</b>, <b>PL-SQL</b>, and <b>Hadoop hive</b>,
       and have a good hands-on experience working with <b>MS Excel</b> and <b>Python</b> to clean the data, create charts and build reports. 
       I have also worked on a few <b>Linear Regression models</b> to predict daily/weekly scores which are currently used to identify the days where our performance was below average. 
       Have also worked on <b>NLP model for sentiment analysis</b> using Bayes Naïve algorithm along with bag-of-words approach to classify customer comments as Positive/Neutral/Negative to help identify any problem areas. 
       Using my knowledge of <b>HTML</b>, <b>CSS</b>, and <b>jQuery</b> I have built a couple of Slate dashboards which are used by the cabin cleanliness teams to address any touchpoint with the external stakeholders.
-    <br>
+    <br/>
   </p>
 show_downloads: true
 google_analytics:
