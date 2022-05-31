@@ -6,12 +6,10 @@ description:
     <a href="https://www.linkedin.com/in/leon-richard-dsouza-ab073b15a/" target="_blank">LinkedIn</a> |
     <a href="https://github.com/dsouzaleon" target="_blank">GitHub</a>
 
-    <br/><br/>
+    <br/>
       With over 3 years of experience as a Data Analyst at United Airlines, I have worked on multiple data sources like <b>SQL</b>, <b>Spark</b>, <b>PL-SQL</b>, and <b>Hadoop hive</b>,
       with <b>MS Excel</b> and <b>Python</b> to clean the data, create charts and build reports. Worked on a few <b>Linear Regression models</b> and <b>NLP model for sentiment analysis</b> to solve some key problems.
       Built Slate dashboards using <b>HTML</b>, <b>CSS</b>, and <b>jQuery</b>.
     <br/>
   </p>
-show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
